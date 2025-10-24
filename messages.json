@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-24T21:30:15.395Z",
+      "lastSeen": "2025-10-24T21:30:47.008Z",
       "isOnline": true
     }
   },
@@ -30,8 +30,21 @@
         "time": "2025-10-24T21:30:15.394Z",
         "isGlobal": true,
         "replyTo": null
+      },
+      {
+        "id": "mh5d7yhs6izzaeu6j4c",
+        "from": "KirillEblan",
+        "to": null,
+        "text": "Также добавил долгожданные ответы)",
+        "time": "2025-10-24T21:30:47.008Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mh5d7a3myz8xb6rqsd",
+          "sender": "KirillEblan",
+          "text": "Ну что же. Серваки сброшены. Так сказать WayPoint запущен!"
+        }
       }
     ]
   },
-  "lastUpdate": "2025-10-24T21:30:15.418Z"
+  "lastUpdate": "2025-10-24T21:30:47.041Z"
 }
