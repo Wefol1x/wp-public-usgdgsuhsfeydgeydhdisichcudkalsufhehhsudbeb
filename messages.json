@@ -1,7 +1,23 @@
 {
-  "users": {},
-  "conversations": {
-    "global": []
+  "users": {
+    "WayPoint": {
+      "name": "WayPoint",
+      "lastSeen": "2025-10-24T20:15:14.820Z",
+      "isOnline": true
+    }
   },
-  "lastUpdate": "2025-10-24T20:13:14.903Z"
+  "conversations": {
+    "global": [
+      {
+        "id": "mh5aitfov3v2nsblz3e",
+        "from": "WayPoint",
+        "to": null,
+        "text": "start CTL {locale} - public1",
+        "time": "2025-10-24T20:15:14.820Z",
+        "isGlobal": true,
+        "replyTo": null
+      }
+    ]
+  },
+  "lastUpdate": "2025-10-24T20:15:14.860Z"
 }
