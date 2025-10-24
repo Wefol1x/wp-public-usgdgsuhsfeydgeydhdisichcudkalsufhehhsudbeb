@@ -4,6 +4,11 @@
       "name": "WayPoint",
       "lastSeen": "2025-10-24T20:15:14.820Z",
       "isOnline": true
+    },
+    "KirillEblan": {
+      "name": "KirillEblan",
+      "lastSeen": "2025-10-24T21:30:15.395Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -16,8 +21,17 @@
         "time": "2025-10-24T20:15:14.820Z",
         "isGlobal": true,
         "replyTo": null
+      },
+      {
+        "id": "mh5d7a3myz8xb6rqsd",
+        "from": "KirillEblan",
+        "to": null,
+        "text": "Ну что же. Серваки сброшены. Так сказать WayPoint запущен!",
+        "time": "2025-10-24T21:30:15.394Z",
+        "isGlobal": true,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-24T20:15:14.860Z"
+  "lastUpdate": "2025-10-24T21:30:15.418Z"
 }
