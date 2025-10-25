@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:32:35.417Z",
+      "lastSeen": "2025-10-25T22:33:39.054Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -886,6 +886,19 @@
         "time": "2025-10-25T22:32:52.745Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6uwnounuj2w7iz99n",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Ладн",
+        "time": "2025-10-25T22:33:39.054Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6uu7obk1mit5yxg9d",
+          "sender": "KirillEblan",
+          "text": "А по другому их назвать нельзя. Остальное гос органам принадлежит"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -945,5 +958,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:32:52.782Z"
+  "lastUpdate": "2025-10-25T22:33:39.071Z"
 }
