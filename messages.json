@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:36:06.607Z",
+      "lastSeen": "2025-10-25T22:36:41.835Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -952,6 +952,15 @@
         "time": "2025-10-25T22:36:06.607Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6v0kq3is70fk47h9r",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Я не чисто пробивом занимался. Я в основном любил взламывать и нагинать сервера",
+        "time": "2025-10-25T22:36:41.835Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1011,5 +1020,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:36:06.653Z"
+  "lastUpdate": "2025-10-25T22:36:41.871Z"
 }
