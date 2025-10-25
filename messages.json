@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T19:02:43.705Z",
+      "lastSeen": "2025-10-25T19:10:56.172Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -483,6 +483,15 @@
         "time": "2025-10-25T19:09:32.113Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6nnyqzr2pi980rl9b",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Ладно",
+        "time": "2025-10-25T19:10:56.172Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -542,5 +551,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T19:09:32.131Z"
+  "lastUpdate": "2025-10-25T19:10:56.198Z"
 }
