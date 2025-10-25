@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T23:04:56.386Z",
+      "lastSeen": "2025-10-25T23:08:38.945Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1310,8 +1310,17 @@
         "time": "2025-10-25T23:04:56.381Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6w5nz4war7wmcoyt",
+        "from": "KirillEblan",
+        "to": "WayPoint",
+        "text": "/dev boot-sl",
+        "time": "2025-10-25T23:08:38.944Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T23:04:56.436Z"
+  "lastUpdate": "2025-10-25T23:08:38.979Z"
 }
