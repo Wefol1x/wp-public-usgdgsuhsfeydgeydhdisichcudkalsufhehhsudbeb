@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-10-25T16:49:55.058Z",
+      "lastSeen": "2025-10-25T16:50:00.678Z",
       "isOnline": true
     }
   },
@@ -187,8 +187,17 @@
         "time": "2025-10-25T16:49:55.057Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6imqg68sobrh7eukp",
+        "from": "FlamingOxygen",
+        "to": "KirillEblan",
+        "text": "Не работает редактирование",
+        "time": "2025-10-25T16:50:00.678Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T16:49:55.071Z"
+  "lastUpdate": "2025-10-25T16:50:00.693Z"
 }
