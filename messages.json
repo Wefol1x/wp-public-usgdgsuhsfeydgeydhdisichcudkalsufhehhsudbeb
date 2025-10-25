@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T23:16:39.906Z",
+      "lastSeen": "2025-10-25T23:33:42.694Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1359,8 +1359,17 @@
         "time": "2025-10-25T23:13:16.070Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6x1w9hjq11iw1m2d",
+        "from": "KirillEblan",
+        "to": "WayPoint",
+        "text": "/wp //act// -enable",
+        "time": "2025-10-25T23:33:42.677Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T23:16:39.981Z"
+  "lastUpdate": "2025-10-25T23:33:42.730Z"
 }
