@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:27:16.451Z",
+      "lastSeen": "2025-10-25T22:27:22.297Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -750,6 +750,15 @@
           "sender": "KirillEblan",
           "text": "Ты так и не ответил"
         }
+      },
+      {
+        "id": "mh6uokzdx0xqzkyk99a",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Сегодня тока рисую",
+        "time": "2025-10-25T22:27:22.297Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -809,5 +818,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:27:16.466Z"
+  "lastUpdate": "2025-10-25T22:27:22.314Z"
 }
