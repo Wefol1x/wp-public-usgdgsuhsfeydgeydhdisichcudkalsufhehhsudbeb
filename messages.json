@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:23:58.211Z",
+      "lastSeen": "2025-10-25T22:24:59.720Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -711,6 +711,19 @@
           "sender": "KirillEblan",
           "text": "Ну, это не софт. Ты сейчас говоришь про простой пробив. Слышал о Глаз Бога?"
         }
+      },
+      {
+        "id": "mh6uliywcl22f6kmmvj",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Ты так и не ответил",
+        "time": "2025-10-25T22:24:59.720Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6mq618yafjtuaeu1",
+          "sender": "KirillEblan",
+          "text": "Когда новый фанфик? Ты говорил вообще в пятницу"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -770,5 +783,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:24:51.240Z"
+  "lastUpdate": "2025-10-25T22:24:59.741Z"
 }
