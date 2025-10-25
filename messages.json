@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-10-25T16:50:00.678Z",
+      "lastSeen": "2025-10-25T17:32:21.565Z",
       "isOnline": true
     }
   },
@@ -62,6 +62,19 @@
         "time": "2025-10-25T16:58:30.506Z",
         "isGlobal": true,
         "replyTo": null
+      },
+      {
+        "id": "mh6k570drrj8pvquona",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Я рыжий гей",
+        "time": "2025-10-25T17:32:21.565Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mh6ixnu0huijn7m8pzn",
+          "sender": "WayPoint",
+          "text": "Пердни если Ева мужик, а Вова пиджони"
+        }
       }
     ],
     "KirillEblan_Mm..Ah...Ooo~": [
@@ -253,5 +266,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T17:21:22.493Z"
+  "lastUpdate": "2025-10-25T17:32:21.585Z"
 }
