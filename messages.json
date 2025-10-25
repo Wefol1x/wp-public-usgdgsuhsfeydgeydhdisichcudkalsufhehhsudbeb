@@ -2,7 +2,7 @@
   "users": {
     "WayPoint": {
       "name": "WayPoint",
-      "lastSeen": "2025-10-25T23:12:55.019Z",
+      "lastSeen": "2025-10-25T23:13:16.070Z",
       "isOnline": true
     },
     "KirillEblan": {
@@ -1337,8 +1337,17 @@
         "time": "2025-10-25T23:12:55.001Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6wblt2ru9lbrd9esb",
+        "from": "WayPoint",
+        "to": "KirillEblan",
+        "text": "\\ grep iu",
+        "time": "2025-10-25T23:13:16.070Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T23:12:55.072Z"
+  "lastUpdate": "2025-10-25T23:13:16.103Z"
 }
