@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T19:09:32.113Z",
+      "lastSeen": "2025-10-25T19:20:46.032Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -501,6 +501,15 @@
         "time": "2025-10-25T19:11:01.115Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6o0lw0kixukv79yd",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Не ну смотри, в приложении как в дискорде тебя устроит?",
+        "time": "2025-10-25T19:20:46.032Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -560,5 +569,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T19:11:01.134Z"
+  "lastUpdate": "2025-10-25T19:20:46.051Z"
 }
