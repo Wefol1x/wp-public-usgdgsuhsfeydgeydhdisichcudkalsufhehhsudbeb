@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T14:25:25.710Z",
+      "lastSeen": "2025-10-25T14:34:12.653Z",
       "isOnline": true
     }
   },
@@ -135,8 +135,17 @@
           "sender": "KirillEblan",
           "text": "Наш стешин"
         }
+      },
+      {
+        "id": "mh6ds3e59vp0im1albd",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "А",
+        "time": "2025-10-25T14:34:12.653Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T14:31:41.985Z"
+  "lastUpdate": "2025-10-25T14:34:12.684Z"
 }
