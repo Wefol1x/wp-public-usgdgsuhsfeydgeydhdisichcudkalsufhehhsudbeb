@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T14:25:03.968Z",
+      "lastSeen": "2025-10-25T14:25:25.710Z",
       "isOnline": true
     }
   },
@@ -104,8 +104,17 @@
         "time": "2025-10-25T14:25:03.968Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6dgssubefc5hk82w",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Чо за кирил кста",
+        "time": "2025-10-25T14:25:25.710Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T14:25:03.985Z"
+  "lastUpdate": "2025-10-25T14:25:25.728Z"
 }
