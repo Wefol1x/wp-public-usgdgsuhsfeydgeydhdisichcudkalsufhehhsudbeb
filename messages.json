@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:38:28.496Z",
+      "lastSeen": "2025-10-25T22:39:55.770Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1036,6 +1036,19 @@
           "sender": "Mm..Ah...Ooo~",
           "text": "А если это не защита то чо тогда защита"
         }
+      },
+      {
+        "id": "mh6v4qd6qxhjnetfds",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Жестко",
+        "time": "2025-10-25T22:39:55.770Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6v38srloiheelgfk",
+          "sender": "KirillEblan",
+          "text": "Дневника, Сферума, VK"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1095,5 +1108,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:39:27.433Z"
+  "lastUpdate": "2025-10-25T22:39:55.790Z"
 }
