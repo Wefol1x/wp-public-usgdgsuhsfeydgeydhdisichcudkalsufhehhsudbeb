@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:29:53.504Z",
+      "lastSeen": "2025-10-25T22:30:03.396Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -807,6 +807,15 @@
           "sender": "KirillEblan",
           "text": "Нихуя. Иллюстрации прилагаются?"
         }
+      },
+      {
+        "id": "mh6us1ac5etz7feq1kb",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Там имба рисунок",
+        "time": "2025-10-25T22:30:03.396Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -866,5 +875,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:29:53.526Z"
+  "lastUpdate": "2025-10-25T22:30:03.413Z"
 }
