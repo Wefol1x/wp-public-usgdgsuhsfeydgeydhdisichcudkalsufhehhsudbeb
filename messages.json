@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:39:27.392Z",
+      "lastSeen": "2025-10-25T22:40:51.426Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1062,6 +1062,19 @@
           "sender": "KirillEblan",
           "text": "Ее нет, защиты просто нет. Ты можешь хоть 100 масок надеть. Будет уязвимость и точка входа"
         }
+      },
+      {
+        "id": "mh6v5xb6z30i9126rhh",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Спуферы. Методы подключения. ByeByeDPI является маской к примеру",
+        "time": "2025-10-25T22:40:51.426Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6v21o0higaksqxhcj",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "Кста и чо за 17 масок"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1121,5 +1134,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:40:28.725Z"
+  "lastUpdate": "2025-10-25T22:40:51.457Z"
 }
