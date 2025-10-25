@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:25:38.959Z",
+      "lastSeen": "2025-10-25T22:28:41.184Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -759,6 +759,15 @@
         "time": "2025-10-25T22:27:22.297Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6uq9uoukxgytcmtr9",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Просто если ты хочешь тупо пробивать людей то есть прекрасные сервисы как глаз бога",
+        "time": "2025-10-25T22:28:41.184Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -818,5 +827,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:27:22.314Z"
+  "lastUpdate": "2025-10-25T22:28:41.219Z"
 }
