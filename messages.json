@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T14:20:30.358Z",
+      "lastSeen": "2025-10-25T14:20:44.008Z",
       "isOnline": true
     }
   },
@@ -63,8 +63,17 @@
         "time": "2025-10-25T14:20:30.358Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6darfsa0owvsqe5nw",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Мм ахх охх, вовочка",
+        "time": "2025-10-25T14:20:44.008Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T14:20:30.372Z"
+  "lastUpdate": "2025-10-25T14:20:44.024Z"
 }
