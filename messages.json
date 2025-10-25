@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T18:43:22.257Z",
+      "lastSeen": "2025-10-25T18:43:39.466Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -265,6 +265,15 @@
         "time": "2025-10-25T18:43:22.257Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6movuy4wkao7p4caa",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "После того как сева там написал он больше не отвечает",
+        "time": "2025-10-25T18:43:39.466Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -324,5 +333,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T18:43:22.288Z"
+  "lastUpdate": "2025-10-25T18:43:39.485Z"
 }
