@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:30:15.825Z",
+      "lastSeen": "2025-10-25T22:31:44.988Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -842,6 +842,19 @@
           "sender": "KirillEblan",
           "text": "Просто если ты хочешь тупо пробивать людей то есть прекрасные сервисы как глаз бога"
         }
+      },
+      {
+        "id": "mh6uu7obk1mit5yxg9d",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "А по другому их назвать нельзя. Остальное гос органам принадлежит",
+        "time": "2025-10-25T22:31:44.987Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6ute4ah05i5eh6uak",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "А кроме глаза бога"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -901,5 +914,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:31:06.701Z"
+  "lastUpdate": "2025-10-25T22:31:45.021Z"
 }
