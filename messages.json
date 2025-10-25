@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-24T21:30:47.008Z",
+      "lastSeen": "2025-10-25T14:20:12.510Z",
       "isOnline": true
     }
   },
@@ -44,7 +44,18 @@
           "text": "Ну что же. Серваки сброшены. Так сказать WayPoint запущен!"
         }
       }
+    ],
+    "KirillEblan_Mm..Ah...Ooo~": [
+      {
+        "id": "mh6da34m7o6sc1ileu7",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Почти у тебя ник такой странный?",
+        "time": "2025-10-25T14:20:12.510Z",
+        "isGlobal": false,
+        "replyTo": null
+      }
     ]
   },
-  "lastUpdate": "2025-10-24T21:30:47.041Z"
+  "lastUpdate": "2025-10-25T14:20:12.527Z"
 }
