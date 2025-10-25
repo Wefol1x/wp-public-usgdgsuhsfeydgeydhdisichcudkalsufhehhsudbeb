@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:36:41.835Z",
+      "lastSeen": "2025-10-25T22:38:46.347Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1010,6 +1010,19 @@
         "time": "2025-10-25T22:38:28.496Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6v38srloiheelgfk",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Дневника, Сферума, VK",
+        "time": "2025-10-25T22:38:46.347Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6v1pljf7wk8bjsgid",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "Чо за сервера"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1069,5 +1082,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:38:28.521Z"
+  "lastUpdate": "2025-10-25T22:38:46.423Z"
 }
