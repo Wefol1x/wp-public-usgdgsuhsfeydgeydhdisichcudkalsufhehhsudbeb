@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T14:34:12.653Z",
+      "lastSeen": "2025-10-25T14:34:17.250Z",
       "isOnline": true
     }
   },
@@ -144,8 +144,17 @@
         "time": "2025-10-25T14:34:12.653Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6ds6xuzm2ury03mc",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Понял",
+        "time": "2025-10-25T14:34:17.250Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T14:34:12.684Z"
+  "lastUpdate": "2025-10-25T14:34:17.292Z"
 }
