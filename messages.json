@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:39:55.770Z",
+      "lastSeen": "2025-10-25T22:40:28.702Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1049,6 +1049,19 @@
           "sender": "KirillEblan",
           "text": "Дневника, Сферума, VK"
         }
+      },
+      {
+        "id": "mh6v5fryi5xj4x4d6q8",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "(",
+        "time": "2025-10-25T22:40:28.702Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6v44gwfck88yntoz7",
+          "sender": "KirillEblan",
+          "text": "Ее нет, защиты просто нет. Ты можешь хоть 100 масок надеть. Будет уязвимость и точка входа"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1108,5 +1121,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:39:55.790Z"
+  "lastUpdate": "2025-10-25T22:40:28.725Z"
 }
