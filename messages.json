@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:30:03.396Z",
+      "lastSeen": "2025-10-25T22:31:06.682Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -829,6 +829,19 @@
           "sender": "KirillEblan",
           "text": "Просто если ты хочешь тупо пробивать людей то есть прекрасные сервисы как глаз бога"
         }
+      },
+      {
+        "id": "mh6ute4ah05i5eh6uak",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "А кроме глаза бога",
+        "time": "2025-10-25T22:31:06.682Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6uq9uoukxgytcmtr9",
+          "sender": "KirillEblan",
+          "text": "Просто если ты хочешь тупо пробивать людей то есть прекрасные сервисы как глаз бога"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -888,5 +901,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:30:15.904Z"
+  "lastUpdate": "2025-10-25T22:31:06.701Z"
 }
