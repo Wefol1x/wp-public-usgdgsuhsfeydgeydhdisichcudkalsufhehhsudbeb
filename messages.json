@@ -14,6 +14,11 @@
       "name": "Mm..Ah...Ooo~",
       "lastSeen": "2025-10-25T14:34:17.250Z",
       "isOnline": true
+    },
+    "FlamingOxygen": {
+      "name": "FlamingOxygen",
+      "lastSeen": "2025-10-25T16:49:55.058Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -173,8 +178,17 @@
         "time": "2025-10-25T16:46:58.981Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6imm41bed8flbydf",
+        "from": "FlamingOxygen",
+        "to": "KirillEblan",
+        "text": "Ну",
+        "time": "2025-10-25T16:49:55.057Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T16:46:59.009Z"
+  "lastUpdate": "2025-10-25T16:49:55.071Z"
 }
