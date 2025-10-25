@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T19:08:13.747Z",
+      "lastSeen": "2025-10-25T19:09:03.640Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -465,6 +465,15 @@
         "time": "2025-10-25T19:08:13.746Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6nljx3f7w5x5mvdbq",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Не получиться к сожалению сделать так чтобы приложение уведомлчло. Но могу счётчики добавить чтобы рядом с ником типа цифра была и как в дискорде когда ты тут сидишь были уведомления",
+        "time": "2025-10-25T19:09:03.639Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -524,5 +533,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T19:08:13.764Z"
+  "lastUpdate": "2025-10-25T19:09:03.660Z"
 }
