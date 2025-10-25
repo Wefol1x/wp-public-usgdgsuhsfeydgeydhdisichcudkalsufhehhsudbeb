@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:24:59.720Z",
+      "lastSeen": "2025-10-25T22:25:38.959Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -724,6 +724,19 @@
           "sender": "KirillEblan",
           "text": "Когда новый фанфик? Ты говорил вообще в пятницу"
         }
+      },
+      {
+        "id": "mh6umd8vkx12drvjmm",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Нуу, к примеру из-за источника. Может он о тебе инфу собрал",
+        "time": "2025-10-25T22:25:38.959Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6uktkrubl67djg8il",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "По каким"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -783,5 +796,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:24:59.741Z"
+  "lastUpdate": "2025-10-25T22:25:38.997Z"
 }
