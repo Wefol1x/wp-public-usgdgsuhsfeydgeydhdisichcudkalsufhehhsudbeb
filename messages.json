@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:45:42.449Z",
+      "lastSeen": "2025-10-25T22:45:55.179Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1155,6 +1155,19 @@
         "time": "2025-10-25T22:45:42.449Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6vcforrqtupo2ppyo",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Поищу",
+        "time": "2025-10-25T22:45:55.179Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6vapicuxkwjsh3hnb",
+          "sender": "KirillEblan",
+          "text": "Так что. Будешь искать сервисы глаз бога?"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1214,5 +1227,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:45:42.461Z"
+  "lastUpdate": "2025-10-25T22:45:55.201Z"
 }
