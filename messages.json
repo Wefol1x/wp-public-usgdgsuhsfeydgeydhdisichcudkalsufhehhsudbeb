@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T14:31:31.734Z",
+      "lastSeen": "2025-10-25T14:31:41.969Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -122,8 +122,21 @@
         "time": "2025-10-25T14:31:31.734Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6dov4hj2jwrozqfjd",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Он еблан",
+        "time": "2025-10-25T14:31:41.969Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6don86gxnnpbl1754",
+          "sender": "KirillEblan",
+          "text": "Наш стешин"
+        }
       }
     ]
   },
-  "lastUpdate": "2025-10-25T14:31:31.755Z"
+  "lastUpdate": "2025-10-25T14:31:41.985Z"
 }
