@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:16:22.679Z",
+      "lastSeen": "2025-10-25T22:18:58.195Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -600,6 +600,15 @@
         "time": "2025-10-25T22:17:42.520Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6uds0jdvuljaquwaq",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Докс это слив инфы в общие источники, деанон угроза слива",
+        "time": "2025-10-25T22:18:58.195Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -659,5 +668,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:17:42.544Z"
+  "lastUpdate": "2025-10-25T22:18:58.272Z"
 }
