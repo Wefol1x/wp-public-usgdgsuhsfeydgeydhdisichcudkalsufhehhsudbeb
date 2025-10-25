@@ -34,7 +34,9 @@
     "registered": "2025-10-25T16:46:06.531Z",
     "lastSeen": "2025-10-25T16:46:07.365Z",
     "bio": "",
-    "friends": [],
+    "friends": [
+      "KirillEblan"
+    ],
     "avatar": "👤"
   }
 }
