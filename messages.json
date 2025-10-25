@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:48:17.032Z",
+      "lastSeen": "2025-10-25T22:48:25.433Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1208,6 +1208,19 @@
           "sender": "KirillEblan",
           "text": "Ну удачи в начинаниях"
         }
+      },
+      {
+        "id": "mh6vfnmh9fjq8wuniip",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Не",
+        "time": "2025-10-25T22:48:25.433Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6vdowj9lf4o13hic",
+          "sender": "KirillEblan",
+          "text": "Ты не обижаешься? Я просто думал что ты в другом направлении интересовался"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1267,5 +1280,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:48:17.061Z"
+  "lastUpdate": "2025-10-25T22:48:25.467Z"
 }
