@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T17:16:26.469Z",
+      "lastSeen": "2025-10-25T17:33:33.148Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -74,6 +74,19 @@
           "id": "mh6ixnu0huijn7m8pzn",
           "sender": "WayPoint",
           "text": "Пердни если Ева мужик, а Вова пиджони"
+        }
+      },
+      {
+        "id": "mh6k6q8o8nariwmljd6",
+        "from": "KirillEblan",
+        "to": null,
+        "text": "Ууу, Сева куда ты скатился...",
+        "time": "2025-10-25T17:33:33.145Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mh6k570drrj8pvquona",
+          "sender": "FlamingOxygen",
+          "text": "Я рыжий гей"
         }
       }
     ],
@@ -275,5 +288,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T17:32:35.322Z"
+  "lastUpdate": "2025-10-25T17:33:33.177Z"
 }
