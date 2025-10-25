@@ -1,16 +1,4 @@
 {
-  "KirillEblan": {
-    "password": "pizdaliz123shluha123",
-    "registered": "2025-10-24T20:12:21.452Z",
-    "lastSeen": "2025-10-25T17:33:06.550Z",
-    "bio": "Кирилл долбаеб, еблан, конченый мудак. Эуу я разраб WayPoint)",
-    "friends": [
-      "WayPoint",
-      "Mm..Ah...Ooo~",
-      "FlamingOxygen"
-    ],
-    "avatar": "🚬"
-  },
   "WayPoint": {
     "password": "pizdaliz123shluha123",
     "registered": "2025-10-24T20:14:03.771Z",
@@ -44,5 +32,17 @@
       "WayPoint"
     ],
     "avatar": "🗿"
+  },
+  "KirillMudachella": {
+    "password": "pizdaliz123shluha123",
+    "registered": "2025-10-24T20:12:21.452Z",
+    "lastSeen": "2025-10-25T17:33:06.550Z",
+    "bio": "Кирилл долбаеб, еблан, конченый мудак. Эуу я разраб WayPoint)",
+    "friends": [
+      "WayPoint",
+      "Mm..Ah...Ooo~",
+      "FlamingOxygen"
+    ],
+    "avatar": "🚬"
   }
 }
