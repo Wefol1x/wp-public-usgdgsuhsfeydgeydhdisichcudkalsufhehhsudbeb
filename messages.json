@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:46:53.779Z",
+      "lastSeen": "2025-10-25T22:47:51.568Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -88,6 +88,15 @@
           "sender": "FlamingOxygen",
           "text": "Я рыжий гей"
         }
+      },
+      {
+        "id": "mh6vexhsxsgbeg940rn",
+        "from": "KirillEblan",
+        "to": null,
+        "text": "Кстати, как думаете что можно добавить из настроек конфиденциальности?",
+        "time": "2025-10-25T22:47:51.568Z",
+        "isGlobal": true,
+        "replyTo": null
       }
     ],
     "KirillEblan_Mm..Ah...Ooo~": [
@@ -1245,5 +1254,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:46:53.828Z"
+  "lastUpdate": "2025-10-25T22:47:51.616Z"
 }
