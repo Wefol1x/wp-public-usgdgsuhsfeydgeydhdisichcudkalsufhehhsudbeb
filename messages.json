@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T18:43:51.775Z",
+      "lastSeen": "2025-10-25T18:44:39.308Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -287,6 +287,15 @@
           "sender": "KirillEblan",
           "text": "После того как сева там написал он больше не отвечает"
         }
+      },
+      {
+        "id": "mh6mq618yafjtuaeu1",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Когда новый фанфик? Ты говорил вообще в пятницу",
+        "time": "2025-10-25T18:44:39.308Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -346,5 +355,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T18:43:51.800Z"
+  "lastUpdate": "2025-10-25T18:44:39.326Z"
 }
