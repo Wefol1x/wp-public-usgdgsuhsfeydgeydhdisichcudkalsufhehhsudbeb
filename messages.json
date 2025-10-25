@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T18:58:58.734Z",
+      "lastSeen": "2025-10-25T18:59:18.525Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -398,6 +398,19 @@
         "time": "2025-10-25T18:58:58.734Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6n90fxme418xfljjs",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Лучше сдохнуть",
+        "time": "2025-10-25T18:59:18.525Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6n8l64ddr023ppyfg",
+          "sender": "KirillEblan",
+          "text": "Как тебе вообще новая версия WayPoint? Над уведомлениями я работаю но не общеаю. На java вряд ли напишу из-за того что он уже в smali. А smali это ад"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -457,5 +470,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T18:58:58.750Z"
+  "lastUpdate": "2025-10-25T18:59:18.554Z"
 }
