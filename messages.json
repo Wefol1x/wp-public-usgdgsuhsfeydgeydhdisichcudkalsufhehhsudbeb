@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:31:44.988Z",
+      "lastSeen": "2025-10-25T22:32:52.745Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -877,6 +877,15 @@
         "time": "2025-10-25T22:32:35.417Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6uvnyh5kjpvtumhad",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Почему бы тебе аву не сменить?",
+        "time": "2025-10-25T22:32:52.745Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -936,5 +945,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:32:35.436Z"
+  "lastUpdate": "2025-10-25T22:32:52.782Z"
 }
