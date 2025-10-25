@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:32:15.914Z",
+      "lastSeen": "2025-10-25T22:32:35.417Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -868,6 +868,15 @@
           "sender": "KirillEblan",
           "text": "У меня сейчас на Arch Linux (пк) стоит софт для уничтожения серверов. С тг я баловался и честно скажу это работает через раз. Пробив это вообще не мое. Инфу брал по открытым источникам"
         }
+      },
+      {
+        "id": "mh6uval5313koys0kvc",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Или чо там",
+        "time": "2025-10-25T22:32:35.417Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -927,5 +936,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:32:15.934Z"
+  "lastUpdate": "2025-10-25T22:32:35.436Z"
 }
