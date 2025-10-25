@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T19:20:46.032Z",
+      "lastSeen": "2025-10-25T19:21:10.669Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -510,6 +510,15 @@
         "time": "2025-10-25T19:20:46.032Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6o14wd14nnmy19s2e",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Типа просто заходи и чекай время от времени лски",
+        "time": "2025-10-25T19:21:10.669Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -569,5 +578,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T19:20:46.051Z"
+  "lastUpdate": "2025-10-25T19:21:10.686Z"
 }
