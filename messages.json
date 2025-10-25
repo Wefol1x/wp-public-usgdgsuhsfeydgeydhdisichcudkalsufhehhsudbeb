@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:18:58.195Z",
+      "lastSeen": "2025-10-25T22:19:16.175Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -609,6 +609,15 @@
         "time": "2025-10-25T22:18:58.195Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6ue5vz4ks21p6wwti",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Так в каких целях софт хочешь юзать?",
+        "time": "2025-10-25T22:19:16.175Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -668,5 +677,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:18:58.272Z"
+  "lastUpdate": "2025-10-25T22:19:16.214Z"
 }
