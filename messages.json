@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T22:29:04.135Z",
+      "lastSeen": "2025-10-25T22:30:15.825Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -816,6 +816,19 @@
         "time": "2025-10-25T22:30:03.396Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6usavlrjdc7yi9j6b",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "У меня сейчас на Arch Linux (пк) стоит софт для уничтожения серверов. С тг я баловался и честно скажу это работает через раз. Пробив это вообще не мое. Инфу брал по открытым источникам",
+        "time": "2025-10-25T22:30:15.825Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6uq9uoukxgytcmtr9",
+          "sender": "KirillEblan",
+          "text": "Просто если ты хочешь тупо пробивать людей то есть прекрасные сервисы как глаз бога"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -875,5 +888,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:30:03.413Z"
+  "lastUpdate": "2025-10-25T22:30:15.904Z"
 }
