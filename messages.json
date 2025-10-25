@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T18:53:55.837Z",
+      "lastSeen": "2025-10-25T18:54:13.942Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -309,6 +309,15 @@
           "sender": "KirillEblan",
           "text": "Даже в тг"
         }
+      },
+      {
+        "id": "mh6n2hfabfb7i5e3g1",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Это же ты зашёл на его ак",
+        "time": "2025-10-25T18:54:13.942Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -368,5 +377,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T18:53:55.857Z"
+  "lastUpdate": "2025-10-25T18:54:13.954Z"
 }
