@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:31:06.682Z",
+      "lastSeen": "2025-10-25T22:32:15.914Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -855,6 +855,19 @@
           "sender": "Mm..Ah...Ooo~",
           "text": "А кроме глаза бога"
         }
+      },
+      {
+        "id": "mh6uuvjegfxmyd0dz7v",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Ты ещё говорил про какой то софт для вайфая",
+        "time": "2025-10-25T22:32:15.914Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mh6usavlrjdc7yi9j6b",
+          "sender": "KirillEblan",
+          "text": "У меня сейчас на Arch Linux (пк) стоит софт для уничтожения серверов. С тг я баловался и честно скажу это работает через раз. Пробив это вообще не мое. Инфу брал по открытым источникам"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -914,5 +927,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:31:45.021Z"
+  "lastUpdate": "2025-10-25T22:32:15.934Z"
 }
