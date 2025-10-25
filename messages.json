@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T22:40:28.702Z",
+      "lastSeen": "2025-10-25T22:43:24.814Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1110,6 +1110,15 @@
           "sender": "Mm..Ah...Ooo~",
           "text": "И менятель айпи"
         }
+      },
+      {
+        "id": "mh6v97nyl42cxvx4gas",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Понятно",
+        "time": "2025-10-25T22:43:24.814Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1169,5 +1178,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T22:42:03.017Z"
+  "lastUpdate": "2025-10-25T22:43:24.836Z"
 }
