@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T14:20:12.510Z",
+      "lastSeen": "2025-10-25T14:20:30.358Z",
       "isOnline": true
     }
   },
@@ -54,8 +54,17 @@
         "time": "2025-10-25T14:20:12.510Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6dagwlb3flafe1b1o",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Поч ник такой странный?",
+        "time": "2025-10-25T14:20:30.358Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-10-25T14:20:12.527Z"
+  "lastUpdate": "2025-10-25T14:20:30.372Z"
 }
