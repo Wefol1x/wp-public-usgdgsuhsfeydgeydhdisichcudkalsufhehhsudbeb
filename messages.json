@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-25T14:34:17.250Z",
+      "lastSeen": "2025-10-25T17:03:28.582Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -167,6 +167,15 @@
         "time": "2025-10-25T14:34:17.250Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6j41ty06alp5v0zuhk",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Как в друзья добавить",
+        "time": "2025-10-25T17:03:28.582Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -217,5 +226,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T16:58:30.540Z"
+  "lastUpdate": "2025-10-25T17:03:28.590Z"
 }
