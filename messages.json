@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-25T19:09:03.640Z",
+      "lastSeen": "2025-10-25T19:09:32.113Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -474,6 +474,15 @@
         "time": "2025-10-25T19:09:03.639Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh6nm5w1yne45d43t8",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Но в smali я не победу это пиздец",
+        "time": "2025-10-25T19:09:32.113Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -533,5 +542,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-25T19:09:03.660Z"
+  "lastUpdate": "2025-10-25T19:09:32.131Z"
 }
