@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-26T23:17:39.261Z",
+      "lastSeen": "2025-10-26T23:17:52.657Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1562,6 +1562,15 @@
         "time": "2025-10-26T23:17:39.261Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh8bxdw1sjkzqo2nxgo",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "ВКУСНЫЙ КЛИТОР",
+        "time": "2025-10-26T23:17:52.657Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1704,5 +1713,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-26T23:17:39.283Z"
+  "lastUpdate": "2025-10-26T23:17:52.684Z"
 }
