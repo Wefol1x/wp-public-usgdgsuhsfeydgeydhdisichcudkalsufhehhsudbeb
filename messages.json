@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-26T06:36:01.389Z",
+      "lastSeen": "2025-10-26T12:17:17.361Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1310,6 +1310,15 @@
         "time": "2025-10-26T10:50:27.948Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh7obv3keugdq7eexr",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Ну что как?",
+        "time": "2025-10-26T12:17:17.360Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1452,5 +1461,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-26T10:50:27.974Z"
+  "lastUpdate": "2025-10-26T12:17:17.393Z"
 }
