@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-26T23:14:14.626Z",
+      "lastSeen": "2025-10-26T23:14:33.086Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1544,6 +1544,15 @@
         "time": "2025-10-26T23:14:14.626Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh8bt3we2316mmi2sp5",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Где яблоко в форме пизды и туда полезла змеея",
+        "time": "2025-10-26T23:14:33.086Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1686,5 +1695,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-26T23:14:14.648Z"
+  "lastUpdate": "2025-10-26T23:14:33.104Z"
 }
