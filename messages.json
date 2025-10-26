@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-26T20:05:53.372Z",
+      "lastSeen": "2025-10-26T22:15:55.816Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1382,6 +1382,15 @@
         "time": "2025-10-26T21:29:32.559Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mh89ppybixp6nr665vj",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Да просто школа капает на мозги. Родители постоянно в чем то обвиняют и ругают про так",
+        "time": "2025-10-26T22:15:55.811Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1524,5 +1533,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-26T21:29:33.042Z"
+  "lastUpdate": "2025-10-26T22:15:55.880Z"
 }
