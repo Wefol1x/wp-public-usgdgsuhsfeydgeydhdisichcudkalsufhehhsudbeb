@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-10-30T12:49:38.918Z",
+      "lastSeen": "2025-10-30T12:50:10.773Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1634,6 +1634,15 @@
         "time": "2025-10-30T12:49:38.918Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhdf9kgltg7rpzefnh",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Второе прям ахуенное, знаешь, напиши сразу два",
+        "time": "2025-10-30T12:50:10.773Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1776,5 +1785,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-30T12:49:38.953Z"
+  "lastUpdate": "2025-10-30T12:50:10.802Z"
 }
