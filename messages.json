@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-30T10:52:17.861Z",
+      "lastSeen": "2025-10-30T10:53:17.156Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1598,6 +1598,15 @@
         "time": "2025-10-30T10:52:17.861Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhdb38pwmm95nkbdepd",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "10 инцестных династий-семей трахаются там между собой и соревнуются кто родит самого больного ребенка",
+        "time": "2025-10-30T10:53:17.156Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1740,5 +1749,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-30T10:52:18.405Z"
+  "lastUpdate": "2025-10-30T10:53:17.180Z"
 }
