@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-10-30T10:53:17.156Z",
+      "lastSeen": "2025-10-30T10:54:51.774Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1607,6 +1607,15 @@
         "time": "2025-10-30T10:53:17.156Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhdb59q619yx2xv2vlz",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Либо мальчик пошёл к психологу а его попросили нарисовать семейный портрет. А он нарисовал как бабка с мамкой трутся поездами ,а дед с отцом долбятся в жопу а сам сын коту сосет",
+        "time": "2025-10-30T10:54:51.774Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1749,5 +1758,5 @@
       }
     ]
   },
-  "lastUpdate": "2025-10-30T10:53:17.180Z"
+  "lastUpdate": "2025-10-30T10:54:51.838Z"
 }
