@@ -1785,7 +1785,12 @@
         "text": "Похоже я смогу добавить фотографии",
         "time": "2025-11-01T09:16:33.470Z",
         "isGlobal": false,
-        "replyTo": null
+        "replyTo": null,
+        "reactions": {
+          "⭐": [
+            "KirillEblan"
+          ]
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1928,7 +1933,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-02T15:20:11.289Z",
+  "lastUpdate": "2025-11-02T15:20:36.755Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
