@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-02T16:47:32.707Z",
+      "lastSeen": "2025-11-02T16:47:52.795Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1814,6 +1814,15 @@
         "time": "2025-11-02T16:47:32.705Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhhy2t3v8sxqsji1g3g",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Типа на весь экран и с акцентом на тг",
+        "time": "2025-11-02T16:47:52.795Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1956,7 +1965,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-02T16:47:32.737Z",
+  "lastUpdate": "2025-11-02T16:47:52.850Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
