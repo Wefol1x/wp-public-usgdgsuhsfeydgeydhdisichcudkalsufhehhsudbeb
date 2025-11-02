@@ -1786,11 +1786,7 @@
         "time": "2025-11-01T09:16:33.470Z",
         "isGlobal": false,
         "replyTo": null,
-        "reactions": {
-          "⭐": [
-            "KirillEblan"
-          ]
-        }
+        "reactions": {}
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1933,7 +1929,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-02T15:20:36.755Z",
+  "lastUpdate": "2025-11-02T15:20:42.892Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
