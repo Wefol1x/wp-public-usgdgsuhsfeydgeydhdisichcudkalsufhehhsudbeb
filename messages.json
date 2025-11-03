@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-03T10:48:30.691Z",
+      "lastSeen": "2025-11-03T10:49:13.638Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1832,6 +1832,15 @@
         "time": "2025-11-03T10:48:30.690Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhj0pfhij9s0x49e51",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Но  тогда мы будем от интернета зависеть полностью, а это плохо(",
+        "time": "2025-11-03T10:49:13.638Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -1974,7 +1983,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-03T10:48:30.746Z",
+  "lastUpdate": "2025-11-03T10:49:13.689Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
