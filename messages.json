@@ -22,7 +22,7 @@
     },
     "TryNoter": {
       "name": "TryNoter",
-      "lastSeen": "2025-11-04T16:32:10.057Z",
+      "lastSeen": "2025-11-04T16:40:29.484Z",
       "isOnline": true
     }
   },
@@ -2004,9 +2004,20 @@
         "isGlobal": false,
         "replyTo": null
       }
+    ],
+    "TryNoter_WayPoint": [
+      {
+        "id": "mhksp0dlnd65yrhh8ds",
+        "from": "TryNoter",
+        "to": "WayPoint",
+        "text": "Иди нахуй!",
+        "time": "2025-11-04T16:40:29.483Z",
+        "isGlobal": false,
+        "replyTo": null
+      }
     ]
   },
-  "lastUpdate": "2025-11-04T16:32:10.101Z",
+  "lastUpdate": "2025-11-04T16:40:29.519Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
