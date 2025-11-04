@@ -19,6 +19,11 @@
       "name": "FlamingOxygen",
       "lastSeen": "2025-10-25T17:32:35.306Z",
       "isOnline": true
+    },
+    "TryNoter": {
+      "name": "TryNoter",
+      "lastSeen": "2025-11-04T16:32:10.057Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -104,6 +109,15 @@
         "to": null,
         "text": "@TryNoter",
         "time": "2025-11-04T16:26:22.897Z",
+        "isGlobal": true,
+        "replyTo": null
+      },
+      {
+        "id": "mhkseb0lxcjp23dv2wi",
+        "from": "TryNoter",
+        "to": null,
+        "text": "Привет, я бот TryNoter! Теперь я основной бот этого форума!",
+        "time": "2025-11-04T16:32:10.055Z",
         "isGlobal": true,
         "replyTo": null
       }
@@ -1992,7 +2006,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-04T16:26:22.969Z",
+  "lastUpdate": "2025-11-04T16:32:10.101Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
