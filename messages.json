@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-04T17:02:49.380Z",
+      "lastSeen": "2025-11-04T17:02:56.787Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1929,6 +1929,15 @@
         "time": "2025-11-04T17:02:49.377Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhkthvyqq8d619qut1g",
+        "from": "KirillEblan",
+        "to": "FlamingOxygen",
+        "text": "Про широкое очко?",
+        "time": "2025-11-04T17:02:56.786Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "KirillEblan_WayPoint": [
@@ -2026,7 +2035,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-04T17:02:49.404Z",
+  "lastUpdate": "2025-11-04T17:02:56.815Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
