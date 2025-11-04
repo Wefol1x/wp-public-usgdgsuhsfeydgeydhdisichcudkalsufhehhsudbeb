@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-10-25T17:32:35.306Z",
+      "lastSeen": "2025-11-04T17:22:42.829Z",
       "isOnline": true
     },
     "TryNoter": {
@@ -1938,6 +1938,15 @@
         "time": "2025-11-04T17:02:56.786Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhku7b47ug458zn1az",
+        "from": "FlamingOxygen",
+        "to": "KirillEblan",
+        "text": "Пиздец, этот конец света хуже серой слизи",
+        "time": "2025-11-04T17:22:42.823Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "KirillEblan_WayPoint": [
@@ -2035,7 +2044,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-04T17:02:56.815Z",
+  "lastUpdate": "2025-11-04T17:22:42.846Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
