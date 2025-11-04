@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-04T17:02:56.787Z",
+      "lastSeen": "2025-11-04T18:08:29.486Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1947,6 +1947,15 @@
         "time": "2025-11-04T17:22:42.823Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhkvu6gd4cn5z5qeazn",
+        "from": "KirillEblan",
+        "to": "FlamingOxygen",
+        "text": "Серой слизи?",
+        "time": "2025-11-04T18:08:29.485Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "KirillEblan_WayPoint": [
@@ -2044,7 +2053,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-04T17:22:42.846Z",
+  "lastUpdate": "2025-11-04T18:08:29.513Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
