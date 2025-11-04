@@ -2,7 +2,7 @@
   "users": {
     "WayPoint": {
       "name": "WayPoint",
-      "lastSeen": "2025-10-26T00:08:29.341Z",
+      "lastSeen": "2025-11-04T16:26:22.898Z",
       "isOnline": true
     },
     "KirillEblan": {
@@ -95,6 +95,15 @@
         "to": null,
         "text": "Кстати, как думаете что можно добавить из настроек конфиденциальности?",
         "time": "2025-10-25T22:47:51.568Z",
+        "isGlobal": true,
+        "replyTo": null
+      },
+      {
+        "id": "mhks6v5b47xtrcj3ht5",
+        "from": "WayPoint",
+        "to": null,
+        "text": "@TryNoter",
+        "time": "2025-11-04T16:26:22.897Z",
         "isGlobal": true,
         "replyTo": null
       }
@@ -1983,7 +1992,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-03T10:49:13.689Z",
+  "lastUpdate": "2025-11-04T16:26:22.969Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
