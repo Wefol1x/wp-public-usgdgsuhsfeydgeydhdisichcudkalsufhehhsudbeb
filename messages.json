@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-05T16:53:07.066Z",
+      "lastSeen": "2025-11-05T16:53:15.803Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -165,6 +165,19 @@
         "time": "2025-11-05T16:53:07.066Z",
         "isGlobal": true,
         "replyTo": null
+      },
+      {
+        "id": "mhm8lacbk4gqqi961t",
+        "from": "KirillEblan",
+        "to": null,
+        "text": "Имба",
+        "time": "2025-11-05T16:53:15.803Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mhlx9542qa29lb8ihga",
+          "sender": "FlamingOxygen",
+          "text": "Налить туда поноса, получится человек ебоза"
+        }
       }
     ],
     "KirillEblan_Mm..Ah...Ooo~": [
@@ -2201,7 +2214,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T16:53:07.195Z",
+  "lastUpdate": "2025-11-05T16:53:15.832Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
