@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-05T11:35:28.329Z",
+      "lastSeen": "2025-11-05T11:35:53.378Z",
       "isOnline": true
     },
     "TryNoter": {
@@ -127,6 +127,15 @@
         "to": null,
         "text": "Цитаты змеева",
         "time": "2025-11-05T11:35:28.320Z",
+        "isGlobal": true,
+        "replyTo": null
+      },
+      {
+        "id": "mhlx9542qa29lb8ihga",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Налить туда поноса, получится человек ебоза",
+        "time": "2025-11-05T11:35:53.378Z",
         "isGlobal": true,
         "replyTo": null
       }
@@ -2071,7 +2080,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T11:35:28.346Z",
+  "lastUpdate": "2025-11-05T11:35:53.399Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
