@@ -24,6 +24,11 @@
       "name": "TryNoter",
       "lastSeen": "2025-11-04T16:40:29.484Z",
       "isOnline": true
+    },
+    "kornix-dev": {
+      "name": "kornix-dev",
+      "lastSeen": "2025-11-05T16:32:49.060Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -2097,10 +2102,19 @@
         "time": "2025-11-05T16:25:43.269Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm7uzrr98lpprxl5rn",
+        "from": "kornix-dev",
+        "to": "KirillEblan",
+        "text": "А",
+        "time": "2025-11-05T16:32:49.047Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-05T16:25:43.294Z",
+  "lastUpdate": "2025-11-05T16:32:49.078Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
