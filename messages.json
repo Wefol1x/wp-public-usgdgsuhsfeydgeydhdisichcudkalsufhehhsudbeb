@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-04T18:08:46.905Z",
+      "lastSeen": "2025-11-05T16:25:40.051Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -2078,9 +2078,20 @@
         "isGlobal": false,
         "replyTo": null
       }
+    ],
+    "KirillEblan_kornix-dev": [
+      {
+        "id": "mhm7lsr6xa3qy4eeoe",
+        "from": "KirillEblan",
+        "to": "kornix-dev",
+        "text": "О",
+        "time": "2025-11-05T16:25:40.050Z",
+        "isGlobal": false,
+        "replyTo": null
+      }
     ]
   },
-  "lastUpdate": "2025-11-05T11:35:53.399Z",
+  "lastUpdate": "2025-11-05T16:25:40.079Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
