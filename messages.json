@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-04T17:22:42.829Z",
+      "lastSeen": "2025-11-05T11:35:28.329Z",
       "isOnline": true
     },
     "TryNoter": {
@@ -118,6 +118,15 @@
         "to": null,
         "text": "Привет, я бот TryNoter! Теперь я основной бот этого форума!",
         "time": "2025-11-04T16:32:10.055Z",
+        "isGlobal": true,
+        "replyTo": null
+      },
+      {
+        "id": "mhlx8ls0arq2j9sltap",
+        "from": "FlamingOxygen",
+        "to": null,
+        "text": "Цитаты змеева",
+        "time": "2025-11-05T11:35:28.320Z",
         "isGlobal": true,
         "replyTo": null
       }
@@ -2062,7 +2071,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-04T18:08:46.928Z",
+  "lastUpdate": "2025-11-05T11:35:28.346Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
