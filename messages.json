@@ -27,7 +27,7 @@
     },
     "kornix-dev": {
       "name": "kornix-dev",
-      "lastSeen": "2025-11-05T16:53:41.082Z",
+      "lastSeen": "2025-11-05T17:04:31.463Z",
       "isOnline": true
     }
   },
@@ -2256,10 +2256,19 @@
         "time": "2025-11-05T17:00:09.926Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm8zro786q5wt6skv7",
+        "from": "kornix-dev",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Я не обижаюсь, да и не обижалась",
+        "time": "2025-11-05T17:04:31.447Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:00:09.948Z",
+  "lastUpdate": "2025-11-05T17:04:31.501Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
