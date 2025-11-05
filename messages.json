@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-05T17:09:08.344Z",
+      "lastSeen": "2025-11-05T17:11:00.315Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2292,10 +2292,19 @@
         "time": "2025-11-05T17:09:55.268Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm983q2l6qp7fshj4k",
+        "from": "Mm..Ah...Ooo~",
+        "to": "kornix-dev",
+        "text": "Нечто более негативное испытываешь?",
+        "time": "2025-11-05T17:11:00.314Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:09:55.316Z",
+  "lastUpdate": "2025-11-05T17:11:00.340Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
