@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-05T17:26:40.636Z",
+      "lastSeen": "2025-11-05T17:27:53.025Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2016,6 +2016,15 @@
         "time": "2025-11-05T17:23:25.438Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm9tt4x938l8gj4e8",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Бля жаль что скринов нету",
+        "time": "2025-11-05T17:27:53.025Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -2434,7 +2443,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:26:40.665Z",
+  "lastUpdate": "2025-11-05T17:27:53.054Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
