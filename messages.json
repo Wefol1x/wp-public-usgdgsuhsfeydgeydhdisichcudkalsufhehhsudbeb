@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-05T17:20:13.352Z",
+      "lastSeen": "2025-11-05T17:20:27.116Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1980,6 +1980,15 @@
           "sender": "Mm..Ah...Ooo~",
           "text": "Из за фанфиков?"
         }
+      },
+      {
+        "id": "mhm9k92hmcifoqb3r",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Ей",
+        "time": "2025-11-05T17:20:27.113Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -2380,7 +2389,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:20:13.391Z",
+  "lastUpdate": "2025-11-05T17:20:27.165Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
