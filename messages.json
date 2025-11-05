@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-05T17:00:00.794Z",
+      "lastSeen": "2025-11-05T17:00:09.926Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2247,10 +2247,19 @@
         "time": "2025-11-05T17:00:00.794Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm8u5vq3xlp8k659au",
+        "from": "Mm..Ah...Ooo~",
+        "to": "kornix-dev",
+        "text": "До сих пор обижаешься на мя?",
+        "time": "2025-11-05T17:00:09.926Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:00:00.827Z",
+  "lastUpdate": "2025-11-05T17:00:09.948Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
