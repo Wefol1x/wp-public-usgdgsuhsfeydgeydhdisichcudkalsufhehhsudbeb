@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-05T17:15:21.026Z",
+      "lastSeen": "2025-11-05T17:16:10.032Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -1958,6 +1958,15 @@
         "time": "2025-11-05T17:15:21.025Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm9eqpcqr1i6qz4lr",
+        "from": "Mm..Ah...Ooo~",
+        "to": "KirillEblan",
+        "text": "Из за фанфиков?",
+        "time": "2025-11-05T17:16:10.032Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -2349,7 +2358,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:15:21.060Z",
+  "lastUpdate": "2025-11-05T17:16:10.102Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
