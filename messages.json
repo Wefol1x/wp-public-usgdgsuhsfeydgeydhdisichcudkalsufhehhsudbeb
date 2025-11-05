@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-05T17:13:19.438Z",
+      "lastSeen": "2025-11-05T17:13:30.512Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1931,6 +1931,15 @@
         "time": "2025-11-05T17:13:19.438Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm9bbm8f03n4bimdph",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Она тебя бриться уже)",
+        "time": "2025-11-05T17:13:30.512Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -2322,7 +2331,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:13:19.467Z",
+  "lastUpdate": "2025-11-05T17:13:30.563Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
