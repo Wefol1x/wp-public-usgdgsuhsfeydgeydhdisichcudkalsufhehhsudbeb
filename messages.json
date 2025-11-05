@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-05T17:31:17.492Z",
+      "lastSeen": "2025-11-05T18:19:14.021Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2458,10 +2458,23 @@
         "time": "2025-11-05T17:38:44.450Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhmbnug4giui7swcrdr",
+        "from": "Mm..Ah...Ooo~",
+        "to": "kornix-dev",
+        "text": "урыла меня",
+        "time": "2025-11-05T18:19:14.020Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhma7rs2le9epgvoovc",
+          "sender": "kornix-dev",
+          "text": "В том то и дело что ничего. Я бы просто ничего не делала, и жила бы себе спокойно"
+        }
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:38:44.531Z",
+  "lastUpdate": "2025-11-05T18:19:14.043Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
