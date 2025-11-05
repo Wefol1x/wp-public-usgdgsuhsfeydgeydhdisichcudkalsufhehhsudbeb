@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-05T17:13:42.432Z",
+      "lastSeen": "2025-11-05T17:20:13.352Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -1967,6 +1967,19 @@
         "time": "2025-11-05T17:16:10.032Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm9jyg5lt2nrrvh0z",
+        "from": "KirillEblan",
+        "to": "Mm..Ah...Ooo~",
+        "text": "Не, из-за того что все время предалагаешь ролку",
+        "time": "2025-11-05T17:20:13.349Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhm9eqpcqr1i6qz4lr",
+          "sender": "Mm..Ah...Ooo~",
+          "text": "Из за фанфиков?"
+        }
       }
     ],
     "FlamingOxygen_KirillEblan": [
@@ -2367,7 +2380,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T17:19:34.581Z",
+  "lastUpdate": "2025-11-05T17:20:13.391Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
