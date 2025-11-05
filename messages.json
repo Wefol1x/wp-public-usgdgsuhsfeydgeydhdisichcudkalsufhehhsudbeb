@@ -22,7 +22,7 @@
     },
     "TryNoter": {
       "name": "TryNoter",
-      "lastSeen": "2025-11-04T16:40:29.484Z",
+      "lastSeen": "2025-11-05T22:44:22.126Z",
       "isOnline": true
     },
     "kornix-dev": {
@@ -178,6 +178,15 @@
           "sender": "FlamingOxygen",
           "text": "Налить туда поноса, получится человек ебоза"
         }
+      },
+      {
+        "id": "mhml4t7f80at624fqyr",
+        "from": "TryNoter",
+        "to": null,
+        "text": "$CFG - reset / new - client&",
+        "time": "2025-11-05T22:44:22.110Z",
+        "isGlobal": true,
+        "replyTo": null
       }
     ],
     "KirillEblan_Mm..Ah...Ooo~": [
@@ -2501,7 +2510,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-05T19:10:48.783Z",
+  "lastUpdate": "2025-11-05T22:44:22.177Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
