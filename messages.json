@@ -12,7 +12,7 @@
     },
     "Mm..Ah...Ooo~": {
       "name": "Mm..Ah...Ooo~",
-      "lastSeen": "2025-11-05T16:57:48.033Z",
+      "lastSeen": "2025-11-05T16:57:51.855Z",
       "isOnline": true
     },
     "FlamingOxygen": {
@@ -2229,10 +2229,19 @@
         "time": "2025-11-05T16:57:48.032Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhm8r7cfk6dvons5lw",
+        "from": "Mm..Ah...Ooo~",
+        "to": "kornix-dev",
+        "text": "А кста",
+        "time": "2025-11-05T16:57:51.855Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-05T16:57:48.060Z",
+  "lastUpdate": "2025-11-05T16:57:51.875Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
