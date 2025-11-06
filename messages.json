@@ -29,6 +29,11 @@
       "name": "kornix-dev",
       "lastSeen": "2025-11-05T19:10:48.729Z",
       "isOnline": true
+    },
+    "Power": {
+      "name": "Power",
+      "lastSeen": "2025-11-06T14:04:25.762Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -2517,9 +2522,20 @@
         "isGlobal": false,
         "replyTo": null
       }
+    ],
+    "KirillEblan_Power": [
+      {
+        "id": "mhni00ma7xs4kc12382",
+        "from": "Power",
+        "to": "KirillEblan",
+        "text": "Привет",
+        "time": "2025-11-06T14:04:25.762Z",
+        "isGlobal": false,
+        "replyTo": null
+      }
     ]
   },
-  "lastUpdate": "2025-11-06T13:22:50.709Z",
+  "lastUpdate": "2025-11-06T14:04:25.787Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
