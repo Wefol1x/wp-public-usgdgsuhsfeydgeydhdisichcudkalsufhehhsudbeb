@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-06T16:15:26.927Z",
+      "lastSeen": "2025-11-06T16:15:44.298Z",
       "isOnline": true
     },
     "TryNoter": {
@@ -2212,6 +2212,15 @@
         "time": "2025-11-06T16:15:26.921Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhnmovqixu6n6o1vtz8",
+        "from": "FlamingOxygen",
+        "to": "KirillEblan",
+        "text": "Я записываю трейлер",
+        "time": "2025-11-06T16:15:44.298Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "KirillEblan_WayPoint": [
@@ -2643,7 +2652,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-06T16:15:26.948Z",
+  "lastUpdate": "2025-11-06T16:15:44.318Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
