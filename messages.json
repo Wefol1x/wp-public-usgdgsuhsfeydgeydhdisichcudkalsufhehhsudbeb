@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-06T14:14:39.684Z",
+      "lastSeen": "2025-11-06T14:14:56.118Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -2541,10 +2541,19 @@
         "time": "2025-11-06T14:04:25.762Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhnidj06jhlaw8jzgt",
+        "from": "KirillEblan",
+        "to": "Power",
+        "text": "Причитай про Ксюша фан",
+        "time": "2025-11-06T14:14:56.118Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-06T14:14:39.723Z",
+  "lastUpdate": "2025-11-06T14:14:56.152Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
