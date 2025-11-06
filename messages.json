@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-05T11:35:53.378Z",
+      "lastSeen": "2025-11-06T16:11:36.822Z",
       "isOnline": true
     },
     "TryNoter": {
@@ -2149,6 +2149,15 @@
         "time": "2025-11-04T18:08:46.904Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhnmjks6nkjgymbqxh",
+        "from": "FlamingOxygen",
+        "to": "KirillEblan",
+        "text": "Кто в сети есть?",
+        "time": "2025-11-06T16:11:36.822Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "KirillEblan_WayPoint": [
@@ -2580,7 +2589,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-06T14:16:04.406Z",
+  "lastUpdate": "2025-11-06T16:11:36.838Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
