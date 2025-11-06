@@ -17,7 +17,7 @@
     },
     "FlamingOxygen": {
       "name": "FlamingOxygen",
-      "lastSeen": "2025-11-06T16:17:44.467Z",
+      "lastSeen": "2025-11-06T16:19:12.460Z",
       "isOnline": true
     },
     "TryNoter": {
@@ -2266,6 +2266,19 @@
         "time": "2025-11-06T16:18:54.179Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhnmtccsbflgmogv9tf",
+        "from": "FlamingOxygen",
+        "to": "KirillEblan",
+        "text": "Ого",
+        "time": "2025-11-06T16:19:12.460Z",
+        "isGlobal": false,
+        "replyTo": {
+          "id": "mhnmpvdmmaemp6syoll",
+          "sender": "KirillEblan",
+          "text": "Па"
+        }
       }
     ],
     "KirillEblan_WayPoint": [
@@ -2697,7 +2710,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-06T16:18:54.275Z",
+  "lastUpdate": "2025-11-06T16:19:12.490Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
