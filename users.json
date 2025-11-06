@@ -76,7 +76,9 @@
     "registered": "2025-11-06T12:37:40.935Z",
     "lastSeen": "2025-11-06T14:02:29.301Z",
     "bio": "Одекватный",
-    "friends": [],
+    "friends": [
+      "KirillEblan"
+    ],
     "avatar": "🚬"
   }
 }
