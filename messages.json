@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-06T14:14:56.118Z",
+      "lastSeen": "2025-11-06T14:15:01.606Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -2550,10 +2550,19 @@
         "time": "2025-11-06T14:14:56.118Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhnidn8mmebqtx3wdle",
+        "from": "KirillEblan",
+        "to": "Power",
+        "text": "Это ещё та имба",
+        "time": "2025-11-06T14:15:01.606Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-06T14:14:56.152Z",
+  "lastUpdate": "2025-11-06T14:15:01.635Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
