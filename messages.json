@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-06T14:15:01.606Z",
+      "lastSeen": "2025-11-06T14:15:11.849Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -2559,10 +2559,19 @@
         "time": "2025-11-06T14:15:01.606Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhnidv55frp5wg7gcyl",
+        "from": "KirillEblan",
+        "to": "Power",
+        "text": "Особенно первый сезон",
+        "time": "2025-11-06T14:15:11.849Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ]
   },
-  "lastUpdate": "2025-11-06T14:15:01.635Z",
+  "lastUpdate": "2025-11-06T14:15:11.881Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
