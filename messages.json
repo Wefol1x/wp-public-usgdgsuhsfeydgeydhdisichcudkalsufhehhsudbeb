@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-06T16:13:41.001Z",
+      "lastSeen": "2025-11-06T16:13:57.522Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -2185,6 +2185,15 @@
         "time": "2025-11-06T16:13:41.001Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhnmmlci815fhswymbf",
+        "from": "KirillEblan",
+        "to": "FlamingOxygen",
+        "text": "Над Way2 работаю",
+        "time": "2025-11-06T16:13:57.522Z",
+        "isGlobal": false,
+        "replyTo": null
       }
     ],
     "KirillEblan_WayPoint": [
@@ -2616,7 +2625,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-06T16:13:41.033Z",
+  "lastUpdate": "2025-11-06T16:13:57.567Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
