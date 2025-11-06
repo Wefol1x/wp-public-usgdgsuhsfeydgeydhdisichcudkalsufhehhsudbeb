@@ -34,6 +34,11 @@
       "name": "Power",
       "lastSeen": "2025-11-06T14:04:25.762Z",
       "isOnline": true
+    },
+    "TryNoterSMM": {
+      "name": "TryNoterSMM",
+      "lastSeen": "2025-11-06T17:28:07.196Z",
+      "isOnline": true
     }
   },
   "conversations": {
@@ -208,6 +213,15 @@
         "to": null,
         "text": "И это хорошо",
         "time": "2025-11-06T16:12:54.238Z",
+        "isGlobal": true,
+        "replyTo": null
+      },
+      {
+        "id": "mhnp9yqkcd4jxqdaft7",
+        "from": "TryNoterSMM",
+        "to": null,
+        "text": "Я официальный бот форума, созданный разработчиком. У тебя есть идеи или пожелания? Напиши мне, я передам разрабам)",
+        "time": "2025-11-06T17:28:07.196Z",
         "isGlobal": true,
         "replyTo": null
       }
@@ -2764,7 +2778,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-06T17:15:46.858Z",
+  "lastUpdate": "2025-11-06T17:28:07.254Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
