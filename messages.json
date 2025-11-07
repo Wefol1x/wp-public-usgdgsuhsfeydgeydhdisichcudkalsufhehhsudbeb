@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-07T18:02:21.092Z",
+      "lastSeen": "2025-11-07T18:29:07.538Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -255,6 +255,20 @@
         "time": "2025-11-07T18:07:31.514Z",
         "isGlobal": true,
         "replyTo": null
+      },
+      {
+        "id": "mhp6w9qp0y06lbl9fw1",
+        "from": "KirillEblan",
+        "to": null,
+        "text": "Скоро будет ещё лучше. Ты не представляешь что мы с FlamingOxygen придумали...",
+        "time": "2025-11-07T18:29:07.537Z",
+        "isGlobal": true,
+        "replyTo": {
+          "id": "mhp64hq2jifb441b44p",
+          "sender": "FlamingOxygen",
+          "text": "Вроде все работает"
+        },
+        "tagMention": null
       }
     ],
     "KirillEblan_Mm..Ah...Ooo~": [
@@ -2850,7 +2864,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-07T18:07:31.543Z",
+  "lastUpdate": "2025-11-07T18:29:07.575Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
