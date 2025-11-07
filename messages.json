@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-07T17:50:42.988Z",
+      "lastSeen": "2025-11-07T18:02:21.092Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -2479,6 +2479,20 @@
         "time": "2025-10-26T00:08:29.335Z",
         "isGlobal": false,
         "replyTo": null
+      },
+      {
+        "id": "mhp5xu78x9fwrp1j3gd",
+        "from": "KirillEblan",
+        "to": "WayPoint",
+        "text": "прикольный фанфик",
+        "time": "2025-11-07T18:02:21.092Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": {
+          "postId": 99982,
+          "postTitle": "Широкие восстания",
+          "postPreview": "Как то раз Юра Широкое Очко решил, мол - Волохуимер стал слишком сильным, его очко настолько мускули..."
+        }
       }
     ],
     "TryNoter_WayPoint": [
@@ -2827,7 +2841,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-07T17:50:43.033Z",
+  "lastUpdate": "2025-11-07T18:02:21.121Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
