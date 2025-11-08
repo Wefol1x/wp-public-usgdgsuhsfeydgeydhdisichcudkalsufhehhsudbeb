@@ -7,7 +7,7 @@
     },
     "KirillEblan": {
       "name": "KirillEblan",
-      "lastSeen": "2025-11-07T18:29:07.538Z",
+      "lastSeen": "2025-11-08T08:17:11.811Z",
       "isOnline": true
     },
     "Mm..Ah...Ooo~": {
@@ -2516,6 +2516,20 @@
           "postTitle": "Широкие восстания",
           "postPreview": "Как то раз Юра Широкое Очко решил, мол - Волохуимер стал слишком сильным, его очко настолько мускули..."
         }
+      },
+      {
+        "id": "mhq0h6dfcwou13rghzd",
+        "from": "KirillEblan",
+        "to": "WayPoint",
+        "text": "Почему не отображается в иные упоминание корректно?",
+        "time": "2025-11-08T08:17:11.811Z",
+        "isGlobal": false,
+        "replyTo": null,
+        "tagMention": {
+          "postId": 99982,
+          "postTitle": "Широкие восстания",
+          "postPreview": "Как то раз Юра Широкое Очко решил, мол - Волохуимер стал слишком сильным, его очко настолько мускули..."
+        }
       }
     ],
     "TryNoter_WayPoint": [
@@ -2864,7 +2878,7 @@
       }
     ]
   },
-  "lastUpdate": "2025-11-07T18:29:07.575Z",
+  "lastUpdate": "2025-11-08T08:17:11.845Z",
   "pinned": {
     "Mm..Ah...Ooo~": [
       "mhg2ijwer92le6c5vai"
